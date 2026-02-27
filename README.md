@@ -1,4 +1,4 @@
-# Multi-Chain Wallet Connect Application — Web3 Wallet Dashboard
+# Multi-Chain Crypto Wallet Connect Application
 
 A professional Next.js 15 + wagmi v2 wallet integration app with MetaMask, Coinbase Wallet, and WalletConnect support across 10 EVM chains.
 
