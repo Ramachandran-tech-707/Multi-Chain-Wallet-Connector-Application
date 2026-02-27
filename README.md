@@ -7,10 +7,10 @@ A professional Next.js 15 + wagmi v2 wallet integration app with MetaMask, Coinb
 ## 📸 Screenshots
 
 ### Home — Connect Screen
-![Home Screen](assets/screenshots/home.png)
+![Home Screen](public/assets/screenshots/home.png)
 
 ### Dashboard — Connected Wallet
-![Dashboard](assets/screenshots/dashboard.png)
+![Dashboard](public/assets/screenshots/dashboard.png)
 
 ---
 
