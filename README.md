@@ -185,3 +185,18 @@ The webpack fallback is required because wagmi/viem use Node.js built-ins that d
 npm run build
 npm start
 ```
+
+## 👨‍💻 Author
+
+**Ramachandran T**  
+Senior Full Stack Developer
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE) — free to use, modify, and distribute.
+
+---
+
+> ⭐ If you found this project helpful, consider giving it a star on GitHub!
