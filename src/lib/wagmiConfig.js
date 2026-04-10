@@ -42,7 +42,7 @@ export const config = createConfig({
     },
     connectors: [
         metaMask(),
-        coinbaseWallet({ appName: 'Mantix' }),
+        coinbaseWallet({ appName: 'Wallet Application' }),
         walletConnect({ projectId }),
     ],
     ssr: false,
